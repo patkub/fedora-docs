@@ -1,0 +1,9 @@
+[Unit]
+Description=Fix unexpected lid actions
+
+[Service]
+ExecStart=/usr/bin/setkeycodes e057 245 e058 245
+
+[Install]
+WantedBy=multi-user.target
+
