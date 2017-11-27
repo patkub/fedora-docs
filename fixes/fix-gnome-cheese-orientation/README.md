@@ -1,3 +1,8 @@
+---
+title: Fix Gnome Cheese Orientation
+layout: default
+---
+
 # fix-gnome-cheese-orientation
 
 > change Gnome Cheese camera orientation

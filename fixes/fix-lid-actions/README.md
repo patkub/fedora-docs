@@ -1,3 +1,8 @@
+---
+title: Fix Lid Actions
+layout: default
+---
+
 # fix-lid-actions
 
 Opening / closing laptop lid sends scancodes which correspond to GNOME's Airplane Mode On. Fix this by mapping the scancodes to keycode 245 (Display Off).
