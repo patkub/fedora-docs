@@ -5,6 +5,8 @@ layout: default
 
 # fix-lid-actions
 
+> disable keycodes sent when opening / closing laptop lid
+
 Opening / closing laptop lid sends scancodes which correspond to GNOME's Airplane Mode On. Fix this by mapping the scancodes to keycode 245 (Display Off).
 
 Use `{ journalctl -f }` before closing and opening your lid to find out if closing the lid simulates any key presses. The journal entry should also tell you the scan code of the key press (e058 & e057 in my case)
