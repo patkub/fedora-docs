@@ -5,7 +5,7 @@ layout: default
 
 # fedora-docs
 
-> Documentation of issues encountered running Fedora Linux on HP Spectre x360.
+> Documentation of setup and issues encountered running Fedora Linux on HP Spectre x360.
 
 Fixes:
 * [fix-disable-wayland](/fixes/fix-disable-wayland/README.md)
