@@ -24,3 +24,6 @@ GNOME Extensions:
 Chrome Dark Theme:
 * `chrome://settings` Appearance > Themes > Use GTK+
 
+PIA VPN:
+* [piafedora](https://github.com/shaynewang/piafedora)
+
