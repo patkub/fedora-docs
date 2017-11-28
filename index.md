@@ -12,6 +12,9 @@ Fixes:
 * [fix-lid-actions](/fixes/fix-lid-actions/README.md)
 * [fix-gnome-cheese-orientation](/fixes/fix-gnome-cheese-orientation/README.md)
 
+Intel Graphics Update Tool for Linux OS:
+* [intel-graphics-update-tool-linux-os-v2.0.6](https://01.org/linuxgraphics/downloads/intel-graphics-update-tool-linux-os-v2.0.6)
+
 GNOME Extensions:
 * [Appfolders management extension](https://extensions.gnome.org/extension/1217/appfolders-manager/)
 * [Coverflow alt-tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/)
