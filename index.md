@@ -21,3 +21,6 @@ GNOME Extensions:
 * [Slide for keyboard](https://extensions.gnome.org/extension/993/slide-for-keyboard/)
 * [User themes](https://extensions.gnome.org/extension/19/user-themes/)
 
+Chrome Dark Theme:
+* `chrome://settings` Appearance > Themes > Use GTK+
+
