@@ -16,4 +16,3 @@ If the problem is fixed make it persistent by creating and enabling a systemd un
 # References
 
 * [https://www.reddit.com/r/archlinux/comments/62lk65/arch_gnome_stopped_suspend_now_how_do_i_prevent/dfusd9e/](https://www.reddit.com/r/archlinux/comments/62lk65/arch_gnome_stopped_suspend_now_how_do_i_prevent/dfusd9e/)
-

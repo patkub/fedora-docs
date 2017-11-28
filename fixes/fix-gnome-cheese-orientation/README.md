@@ -21,4 +21,3 @@ DBusActivatable=false
 # References
 
 * [https://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html](https://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html)
-
