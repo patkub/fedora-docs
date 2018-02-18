@@ -8,6 +8,7 @@ layout: default
 > Documentation of setup and issues encountered running Fedora Linux on HP Spectre x360.
 
 Fixes:
+* [fix-broken-package-groups](/fixes/fix-broken-package-groups/README.md)
 * [fix-dns-server](/fixes/fix-dns-server/README.md)
 * [fix-auto-connect-vpn](/fixes/fix-auto-connect-vpn/README.md)
 * [fix-disable-wayland](/fixes/fix-disable-wayland/README.md)
