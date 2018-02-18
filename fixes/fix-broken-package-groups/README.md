@@ -1,9 +1,9 @@
 ---
-title: Fix Broken Package Groups
+title: Fix broken package groups
 layout: default
 ---
 
-# fix-broken-package-groups
+# Fix broken package groups
 
 > fix broken package groups from a live desktop
 

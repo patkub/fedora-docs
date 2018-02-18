@@ -1,9 +1,9 @@
 ---
-title: Fix Auto Connect VPN
+title: Auto connect VPN
 layout: default
 ---
 
-# fix-auto-connect-vpn
+# Auto connect VPN
 
 > automatically connect to VPN when connected to WiFi.
 
@@ -14,4 +14,3 @@ layout: default
 # References
 
 * [https://ask.fedoraproject.org/en/question/101115/f25vpn-how-to-autoconnect-to-a-vpn-securely/?answer=101197#post-id-101197](https://ask.fedoraproject.org/en/question/101115/f25vpn-how-to-autoconnect-to-a-vpn-securely/?answer=101197#post-id-101197)
-

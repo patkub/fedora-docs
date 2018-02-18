@@ -1,9 +1,9 @@
 ---
-title: Fix Lid Actions
+title: Fix lid actions
 layout: default
 ---
 
-# fix-lid-actions
+# Fix lid actions
 
 > disable keycodes sent when opening / closing laptop lid
 

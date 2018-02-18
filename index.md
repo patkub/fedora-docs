@@ -3,20 +3,20 @@ title: Fedora Docs
 layout: default
 ---
 
-# fedora-docs
+# Fedora Docs
 
 > Documentation of setup and issues encountered running Fedora Linux on HP Spectre x360.
 
 Fixes:
-* [fix-broken-package-groups](/fixes/fix-broken-package-groups/README.md)
-* [fix-dns-server](/fixes/fix-dns-server/README.md)
-* [fix-auto-connect-vpn](/fixes/fix-auto-connect-vpn/README.md)
-* [fix-disable-wayland](/fixes/fix-disable-wayland/README.md)
-* [fix-lid-actions](/fixes/fix-lid-actions/README.md)
-* [fix-gnome-cheese-orientation](/fixes/fix-gnome-cheese-orientation/README.md)
+* [Fix broken package groups](/fixes/fix-broken-package-groups/README.md)
+* [Change DNS server](/fixes/fix-dns-server/README.md)
+* [Auto connect VPN](/fixes/fix-auto-connect-vpn/README.md)
+* [Disable Wayland](/fixes/fix-disable-wayland/README.md)
+* [Fix lid actions](/fixes/fix-lid-actions/README.md)
+* [Fix Gnome Cheese orientation](/fixes/fix-gnome-cheese-orientation/README.md)
 
 Intel Graphics Update Tool for Linux OS:
-* [intel-graphics-update-tool-linux-os-v2.0.6](https://01.org/linuxgraphics/downloads/intel-graphics-update-tool-linux-os-v2.0.6)
+* [Intel Graphics Update Tool Linux OS v2.0.6](https://01.org/linuxgraphics/downloads/intel-graphics-update-tool-linux-os-v2.0.6)
 
 GNOME Extensions:
 * [Appfolders management extension](https://extensions.gnome.org/extension/1217/appfolders-manager/)

@@ -1,4 +1,4 @@
-# fedora-docs
+# Fedora Docs
 
 > Documentation of setup and issues encountered running Fedora Linux on HP Spectre x360.
 

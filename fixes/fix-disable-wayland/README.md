@@ -1,9 +1,9 @@
 ---
-title: Fix Disable Wayland
+title: Disable Wayland
 layout: default
 ---
 
-# fix-disable-wayland
+# Disable Wayland
 
 > disable Wayland
 

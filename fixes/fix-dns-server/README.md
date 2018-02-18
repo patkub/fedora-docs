@@ -1,9 +1,9 @@
 ---
-title: Fix DNS Server
+title: Change DNS server
 layout: default
 ---
 
-# fix-dns-server
+# Change DNS server
 
 > change DNS server to use OpenDNS
 
@@ -28,4 +28,3 @@ Check if you are using OpenDNS at [https://welcome.opendns.com/](https://welcome
 # References
 
 * [OpenDNS Setup Guide](https://www.opendns.com/setupguide/)
-
